@@ -17,7 +17,7 @@ Jawaban:
 <ul>
   <li>BackboneJS (http://backbonejs.org/), </li>
   <li>Bootstrap (https://getbootstrap.com/ & https://getbootstrap.com/docs/4.0/getting-started/introduction/), </li>
-  <li>UnderscoreJS (), </li>
-  <li>JQuery(), </li>
-  <li>JQueryUI()</li>
+  <li>UnderscoreJS (http://underscorejs.org/), </li>
+  <li>JQuery(https://jquery.com/ & http://api.jquery.com/), </li>
+  <li>JQueryUI(http://jqueryui.com/ & http://api.jqueryui.com/)</li>
 </ul>

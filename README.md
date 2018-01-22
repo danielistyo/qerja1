@@ -12,3 +12,12 @@ Pertanyaan:
 5. Ketika ukuran window dirubah, susunan huruf yang 'terbentur' batas window menjadi tidak 1 baris. Benarkan.    
 6. Implementasikan sistem score.   
 7. Implementasikan hukuman berupa pengurangan nilai bila salah ketik.
+
+Jawaban:
+<ul>
+  <li>BackboneJS (http://backbonejs.org/), </li>
+  <li>Bootstrap (https://getbootstrap.com/ & https://getbootstrap.com/docs/4.0/getting-started/introduction/), </li>
+  <li>UnderscoreJS (), </li>
+  <li>JQuery(), </li>
+  <li>JQueryUI()</li>
+</ul>

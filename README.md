@@ -23,6 +23,7 @@ Jawaban:
   <li>JQueryUI(http://jqueryui.com/ & http://api.jqueryui.com/)</li>
 </ul>
 <p>2. Karena fungsi <code>iterate</code> pada model <code>Typer</code> dipanggil dengan interval yang terlalu lama. Sehingga animasi yang tampak akan terlihat <i>Laggy</i>. Untuk membuat animasi lebih <i>smooth</i>, ubah nilai <code>animation_delay</code> menjadi 1. Artinya fungsi <code>iterate</code> akan dipanggil setiap 1 milisecond. Lalu ubah perhitungan property <code>speed</code> pada model <code>Word</code> agar setiap kata yang turun tidak terlalu cepat, seperti ini: </p>
+
 ```javascript
 speed:(this.random_number_from_interval(this.get('min_speed'),this.get('max_speed')))/10
 ```

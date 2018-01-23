@@ -113,10 +113,10 @@ var TyperView = Backbone.View.extend({
 				}
 				if (correctTypedCount == 0 && self.model.get('loop') != null) {
 					alert('wrong typed');
+					$(this).val('');
 					// subtract point
 					if (self.model.get('point') > 0) {
 						self.model.set('point', self.model.get('point') - 1);
-						$(this).val('');
 					}
 				}
 			});

@@ -27,3 +27,4 @@ Jawaban:
 ```javascript
 speed:(this.random_number_from_interval(this.get('min_speed'),this.get('max_speed')))/10
 ```
+<p>3. Saya tidak menemukan masalah saat membuka aplikasi ini di 3 browser populer (IE, Chrome, Firefox). Saya pikir 3 browser tersebut sudah mengupdate teknologinya untuk mengcover segala kasus, mengingat soal ini dibuat tahun 2015.</p>
